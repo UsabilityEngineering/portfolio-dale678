@@ -10,4 +10,4 @@ Coming soon...
 
 ## UX Journal
 
-[🚧 Title under construction 🚧](journal/)
+[All Roads Lead to Home](journal/)
