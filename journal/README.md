@@ -1,4 +1,5 @@
-# Journal 1
+# All Roads Lead to Home
+#### By Diego Alejandre 11/10/25
 
  As someone who is in the middle of a restoration project on an older vehicle, it can be difficult at times to find parts. Some parts may just not exist anymore, or on the off chance that you do find a part, it ends up being sold by a sketchy website. A website that I regularly use is [RockAuto](https://www.rockauto.com/). It is hands down one of the better websites to use to find a part or even cross-reference parts across other automotive websites. Unlike other automotive websites, it uses a very simple format that follows a catalog model. The same catalog model one might use to find what windshield wiper size they need for their vehicle at the store. The catalog model in the automotive industry is very standard, where the person using the catalog finds the make, year, and model of their vehicle to find the correct part for their vehicle.
   
